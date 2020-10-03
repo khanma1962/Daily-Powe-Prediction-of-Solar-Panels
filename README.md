@@ -1,0 +1,1 @@
+# Daily-Powe-Prediction-of-Solar-Panels
